@@ -51,8 +51,8 @@
         <github.global.server>github</github.global.server>
 
         <!-- AceGWT repository -->
-        <acegwt.repository.name>AceGWT</acegwt.repository.name>
-        <acegwt.repository.owner>josepaiva94</acegwt.repository.owner>
+        <acegwt.repository.name>AceGWT-2.11.0</acegwt.repository.name>
+        <acegwt.repository.owner>simdeistud</acegwt.repository.owner>
     </properties>
 
     <distributionManagement>

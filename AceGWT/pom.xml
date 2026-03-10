@@ -30,7 +30,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- dependencies -->
-        <gwt.version>2.11.0</gwt.version>
+        <gwt.version>2.13.0</gwt.version>
 
         <!-- plugins -->
         <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>

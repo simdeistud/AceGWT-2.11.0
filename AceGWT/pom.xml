@@ -30,13 +30,13 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- dependencies -->
-        <gwt.version>2.11.0</gwt.version>
+        <gwt.version>2.13.0</gwt.version>
 
         <!-- plugins -->
-        <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.15.0</maven-compiler-plugin.version>
         <maven-resources-plugin.version>3.1.0</maven-resources-plugin.version>
-        <gwt-maven-plugin.version>1.2.0</gwt-maven-plugin.version>
-        <maven-deploy-plugin.version>2.8.2</maven-deploy-plugin.version>
+        <gwt-maven-plugin.version>1.0-rc-9</gwt-maven-plugin.version>
+        <maven-deploy-plugin.version>3.1.4</maven-deploy-plugin.version>
         <site-maven-plugin.version>0.12</site-maven-plugin.version>
 
         <!-- directory for webapp -->
